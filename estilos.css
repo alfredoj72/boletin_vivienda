@@ -15,3 +15,18 @@
 .bloque-fuente strong {
     font-weight: bold;
 }
+
+p {
+  margin-left: 1%; /* Indentación a la izquierda (ajusta el valor según necesites) */
+  margin-right: 1%; /* Indentación a la derecha (ajusta el valor según necesites) */
+  text-align: justify;
+}
+
+body {
+  max-width: 100%; /* Ajusta el porcentaje según necesites */
+  margin: 0 auto; /* Centra el contenido */
+}
+
+.main-container { /* Si tu tema usa un contenedor principal */
+  max-width: 150%;
+}
