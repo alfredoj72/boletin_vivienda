@@ -1,0 +1,8 @@
+Ya está disponible en el entorno de desarrollo la publicación del boletín utilizando el arquetipo de producto digital OnePage:
+•	Boletín Estadísticas de Vivienda – Junio 2025
+	https://pd-web-op-boletinvivienda.apps.paas-des.junta-andalucia.es/2025-06/boletin_estadisticas_vivienda.html
+
+
+
+El repositorio para la gestión de las publicaciones es el siguiente:
+•	https://gitlab.juntadeandalucia.es/pd-web-op-boletinvivienda/pd-web-op-boletinvivienda-app/-/tree/develop/fuentes?ref_type=heads
